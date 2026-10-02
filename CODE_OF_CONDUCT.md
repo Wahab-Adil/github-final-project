@@ -58,10 +58,16 @@ representative at an online or offline event.
 
 ## Enforcement
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported to the community leaders responsible for enforcement at
-.
-All complaints will be reviewed and investigated promptly and fairly.
+Report abusive, harassing, or otherwise unacceptable behavior directly to the
+project maintainer through https://github.com/Wahab-Adil. Do not post sensitive
+incident details in a public issue or discussion. Include relevant links and a
+description of what happened so the report can be reviewed fairly.
+
+The maintainer will review reports promptly, may ask for additional information,
+and will determine an appropriate response under the Enforcement Guidelines.
+Responses may include a warning, removal of content, or a temporary or permanent
+ban from community spaces. Reporter information will be kept confidential to the
+extent possible and shared only as needed to investigate and address the report.
 
 All community leaders are obligated to respect the privacy and security of the
 reporter of any incident.
