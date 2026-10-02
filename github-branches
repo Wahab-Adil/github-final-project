@@ -1,9 +1,9 @@
 git branch -avv
   bug-fix-revert                                              8daf398 [origin/bug-fix-revert] Restore simple interest project README
-  bug-fix-typo                                                d1abb06 [origin/bug-fix-typo] Fix typo in simple interest formula
-* main                                                        8daf398 [origin/main] Restore simple interest project README
+  bug-fix-typo                                                8f6fef2 [origin/bug-fix-typo] Fix typo in author comment
+* main                                                        b0b1b80 [origin/main] Refresh merge and pull request evidence
   remotes/origin/HEAD                                         -> origin/main
   remotes/origin/arena/01a0fa3f-mcino-introduction-to-git-and 81ab895 Record actual pull request verification
   remotes/origin/bug-fix-revert                               8daf398 Restore simple interest project README
-  remotes/origin/bug-fix-typo                                 d1abb06 Fix typo in simple interest formula
-  remotes/origin/main                                         8daf398 Restore simple interest project README
+  remotes/origin/bug-fix-typo                                 8f6fef2 Fix typo in author comment
+  remotes/origin/main                                         b0b1b80 Refresh merge and pull request evidence
