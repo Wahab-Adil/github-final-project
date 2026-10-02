@@ -1,0 +1,10 @@
+Command executed:
+curl.exe -sS https://api.github.com/repos/Wahab-Adil/mcino-Introduction-to-Git-and-GitHub | ConvertFrom-Json | Select-Object full_name,html_url,fork,@{Name='parent';Expression={$_.parent.full_name}},@{Name='source';Expression={$_.source.full_name}} | Format-List
+
+Terminal output:
+
+full_name : Wahab-Adil/mcino-Introduction-to-Git-and-GitHub
+html_url  : https://github.com/Wahab-Adil/mcino-Introduction-to-Git-and-GitHub
+fork      : True
+parent    : ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub
+source    : ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub
